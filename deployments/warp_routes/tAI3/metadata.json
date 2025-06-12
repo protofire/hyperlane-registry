@@ -1,6 +1,6 @@
 {
-  "name": "TAI3 Warp Route",
-  "symbol": "tAI3",
+  "name": "Warp Route tAI3",
+  "symbol": "wtAI3",
   "description": "Warp Route tAI3",
   "image": "https://raw.githubusercontent.com/protofire/hyperlane-registry/refs/heads/main/deployments/warp_routes/tAI3/logo.svg",
   "attributes": []
